@@ -9,8 +9,6 @@ Font Family: Select from a variety of available font families.
 Font Color: Choose a custom font color using a color picker dialog.
 Find Word: Search for and highlight specific words in the text area.
 
-![text](one.png)
-
 ![text](two.png)
 
 ![text](three.png)

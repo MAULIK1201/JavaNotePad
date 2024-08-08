@@ -1,4 +1,4 @@
-MyNotepad
+<h1>MyNotepad</h1>
 MyNotepad is a simple Java-based text editor application created using Swing. It provides essential text editing features with additional customization options. This project demonstrates the use of Java Swing for building graphical user interfaces and managing user interactions.
 
 Features
